@@ -1,6 +1,6 @@
-# Wall Climber Robot
+# Scorpius Wall-Climbing Robot
 
-A remote-controlled robot designed to scale vertical surfaces using a suction-based adhesion system. A 7-inch tri-blade fan driven by a brushless motor generates negative pressure beneath the chassis, pulling the robot firmly against the wall while four TT gear motors drive it in any direction across the surface.
+Scorpius is a remote-controlled robot designed to scale vertical surfaces using a suction-based adhesion system. A 7-inch tri-blade fan driven by a brushless motor generates negative pressure beneath the chassis, pulling the robot firmly against the wall while four TT gear motors drive it in any direction across the surface.
 
 The project spans mechanical design, power systems, and RC integration — from a laser-cut acrylic frame and 3D-printed PLA shroud that channels suction, to a 4S LiPo power system capable of driving both the locomotion and adhesion systems simultaneously.
 
@@ -12,7 +12,7 @@ The system is divided into four primary sections:
 - [Design Challenges](#design-challenges)
 
 Image of robot:  
-![Wall Climber Robot](assets/wall-climber-robot.jpg)
+![Scorpius Wall-Climbing Robot](assets/wall-climber-robot.jpg)
 
 ---
 
